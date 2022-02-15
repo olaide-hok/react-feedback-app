@@ -1,0 +1,49 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming fron the backend."
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is feedback item 2 coming fron the backend."
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 3 coming fron the backend."
+    },
+    {
+      "text": "This is an updated item",
+      "rating": 10,
+      "id": 4
+    },
+    {
+      "text": "This is an updated item",
+      "rating": 10,
+      "id": 5
+    },
+    {
+      "text": "You are my medicine",
+      "rating": 6,
+      "id": 6
+    },
+    {
+      "text": "You are my medicine",
+      "rating": 6,
+      "id": 7
+    },
+    {
+      "text": "Don't leave me",
+      "rating": 7,
+      "id": 8
+    },
+    {
+      "text": "Don't leave me",
+      "rating": 7,
+      "id": 9
+    }
+  ]
+}
